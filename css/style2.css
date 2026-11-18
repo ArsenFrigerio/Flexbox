@@ -38,3 +38,11 @@
     align-items: center;
     justify-content: space-between;
 }
+
+.card-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
