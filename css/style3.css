@@ -48,3 +48,9 @@ nav, aside{
 main{
     flex: 3;
 }
+
+
+a:link, a:visited, a:hover, a:active{
+    color: white;
+    text-decoration: underline;
+}
