@@ -18,3 +18,7 @@
 .color5{
     background-color:brown;
 }
+
+html, body{
+    height: 100%;
+}
