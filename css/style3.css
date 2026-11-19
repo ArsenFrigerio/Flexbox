@@ -28,3 +28,8 @@ html, body{
     display:flex;
     flex-direction: column;
 }
+
+header, footer{
+    flex: 0 0 150px;
+}
+
